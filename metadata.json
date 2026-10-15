@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow - Student Academic Dashboard & Timetable",
+  "description": "Interactive student productivity platform with class timetables, assignment tracking, study analytics, and exam preparation countdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
